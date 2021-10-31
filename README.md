@@ -18,37 +18,36 @@ Take a look to the content I expect to write about :)
 ## Content
 
 ### Extracting Data
-* [HTML, CSS selectors, XPATH, JSON, jmespath, regex and other techniques](data_extraction.md)
+* [HTML, CSS selectors, XPATH, JSON, jmespath, regex and other techniques](data_extraction.md) ✅
 
 
 ### Accessing Data
 * HTTP protocol, headers, cookies, etc.
 * JavaScript deobfuscation
 * Android reverse engineering
-  * MITM proxies: Mitmproxy, Burpsuite
+  * MITM proxies: Mitmproxy, Charles Proxy, Burpsuite
   * Certificate Pinning
-  * Frida
   * Java deobfuscation (JADX, smali...)
+  * Code injection using Frida
 * Cryptography
 
 
 ### Avoid Detection
-* [IP Banning: Proxies](proxy.md)
+* [IP Banning: Proxies](proxy.md) ✅
 * Captchas
 * Fingerprinting:
   * Browser fingerprinting
-  * [TLS Fingerprinting](tls_fingerprinting.md)
-* Antibots: Akamai, Couldfare, distil, imperva/incapsula, permiterX, DataDome, Kasada...
-* [Akamai Antibot in depth](akamai.md)
+  * [TLS Fingerprinting](tls_fingerprinting.md) 🚧
+* [Antibots and how they work](antibots.md) 🚧
+* [Akamai Antibot in depth](akamai.md) ✅
 
 
 ### Other tools
-* Headless browsers: Selenium, Puppeteer, Playwright
+* [Headless browsers](headless_browsers.md) 🚧
 
 
 ### More about scraping
 * Legal aspects and implications
-
 
 And please! Any suggestion is welcomed! Don't hesitate to comment anything on the issues section. 
 
