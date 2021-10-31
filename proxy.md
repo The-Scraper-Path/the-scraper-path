@@ -97,6 +97,7 @@ VPNs are designed to be used by individuals that care about privacy. It is techn
 * [Bright data (formerly Luminati)](https://brightdata.com/)
 * [Oxylabs](https://oxylabs.io/)
 * [Netnut](https://netnut.io/)
+* [Geosurf](https://www.geosurf.com)
 * [Lime proxies](https://www.limeproxies.com/)
 * [Proxyland](https://proxyland.co/)
 * [Soax](https://soax.com/)

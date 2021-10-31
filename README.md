@@ -36,7 +36,7 @@ Take a look to the content I expect to write about :)
 * [IP Banning: Proxies](proxy.md) ✅
 * Captchas
 * Fingerprinting:
-  * Browser fingerprinting
+  * [Browser fingerprinting](browser_fingerprinting.md) 🚧
   * [TLS Fingerprinting](tls_fingerprinting.md) 🚧
 * [Antibots and how they work](antibots.md) 🚧
 * [Akamai Antibot in depth](akamai.md) ✅
@@ -46,8 +46,16 @@ Take a look to the content I expect to write about :)
 * [Headless browsers](headless_browsers.md) 🚧
 
 
+### Processing and saving data
+* Data normalization and QA
+* Storing data
+
+
 ### More about scraping
 * Legal aspects and implications
+* Who in the tech industry is using scraping and how?
+* Future of the scraping: ML, Antibots...
+
 
 And please! Any suggestion is welcomed! Don't hesitate to comment anything on the issues section. 
 
