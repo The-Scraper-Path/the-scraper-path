@@ -8,15 +8,15 @@
 
 ## Possible workarounds
 
-# Cipher stunting
+### Cipher stunting
 [...]
 
 
-# Headless browser
+### Headless browser
 [...]
 
 
-# TLS spoofing
+### TLS spoofing
 
 There are some recently created libraries that allow to create "realistic" TLS fingerprints. 
 
