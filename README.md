@@ -6,13 +6,13 @@ Hey!
 
 I’m Marc and I’ve been working on the scraping world for some years. If there’s something I realized during this time, apart from how interesting and challenging this world is, is that becoming good at it requires a set of very specific skills, and it seems that there’s a general lack of good resources explaining those different topics.
 
-On this website I would like to freely share with you all my knowledge to build what I called “The Scraper Path”, a guide to teach people from around the world how to be able to access all the data across the internet, providing access to it and helping them to build their incredible projects.
+On this repository I would like to freely share with you all my knowledge to build what I called “The Scraper Path”, a guide to teach people from around the world how to be able to access all the data across the internet, providing access to it and helping them to build their incredible projects.
 
 
 Proxies, Antibots, HTTP protocol, data extraction… all you will need to become a successful Scraper will be here.
 
 
-Take a look to the content I expect to write about :) 
+Take a look at the content I expect to write about :) 
 
 
 ## Content
@@ -57,6 +57,6 @@ Take a look to the content I expect to write about :)
 * Future of the scraping: ML, Antibots...
 
 
-And please! Any suggestion is welcomed! Don't hesitate to comment anything on the issues section. 
+And please! Any suggestion is welcomed! Don't hesitate to comment on the issues section. 
 
 Enjoy!
