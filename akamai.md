@@ -10,7 +10,7 @@ The concept behind is quite simple: When you try to access/perform a login, etc 
 
 If your `sensor_data` is good enough (that is, if they think you are a legit user, the information your browser is sharing is correct, etc.), then they will send you a valid `_abck` cookie and you will be able to access the website normally, otherwise, the cookie will be invalid and your access will be denied (HTTP 403) or throttled.
 
-[Akamain Antibot Schema](img/akamai_antibot_schema.png)
+![Akamain Antibot Schema](img/akamai_antibot_schema.png)
 
 Note that in a common scenario the script will send information to the Akamai servers multiple times with an updated `sensor_data` and the cookie will be updated accordingly.
 
