@@ -29,7 +29,7 @@ Take a look at the content I expect to write about :)
   * Certificate Pinning
   * Java deobfuscation (JADX, smali...)
   * Code injection using Frida
-* Cryptography
+* [Cryptography](cryptography.md)
 
 
 ### Avoid Detection
