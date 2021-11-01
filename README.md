@@ -29,7 +29,12 @@ Take a look at the content I expect to write about :)
   * Certificate Pinning
   * Java deobfuscation (JADX, smali...)
   * Code injection using Frida
-* [Cryptography](cryptography.md)
+* [Cryptography](cryptography.md) 🚧
+  * What is "Cryptography"? ✅
+  * Encoding bytes to strings ✅
+  * Hash functions ✅
+  * Encryption algorithms 🚧
+  * MAC functions 🚧
 
 
 ### Avoid Detection

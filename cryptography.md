@@ -261,24 +261,23 @@ blake2b:
 'de770ef12d07e314d3a9af9a9b11881dd68bbed7a5e5721ed1153c80bea2dabb3d52346899c5f6bfea2c53143254b8c239a2d72ff04e409cf8f1eb7f8a897589'
 ```
 
+## Encryption algorithms
+
+[TODO: AES and 3DES; CBC, etc.]
+
+
+![Symmetric Encryption](img/symmetric_encryption.png)
+
+![Asymmetric Encryption](img/asymmetric_encryption.png)
+
+
+
 ## MAC functions
 They are pretty similar to the hash functions but use a "key". That key is used to produce a "Message Authentication Code" (MAC) that can be used to check if the content has been modified. Hash algorithms without Key can't be used with this goal, as the message could be tempered and the hash recalculated. 
 
 [TODO]
 
 
-![MAC Function](mac_function.png)
-
-## Encryption algorithms
-
-[TODO: AES and 3DES; CBC, etc.]
-
-
-![Symmetric Encryption](symmetric_encryption.png)
-
-![Asymmetric Encryption](asymmetric_encryption.png)
-
-
-
+![MAC Function](img/mac_function.png)
 
 
